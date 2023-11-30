@@ -1,4 +1,4 @@
-# Information-Security-Lab
+# The Visa contactless protocol
 
 The EMV protocol, named after its founding companies Europay, Mastercard, and Visa, serves as the global standard for in-store smartcard payments.
 We will construct a Tamarin security model to conduct a formal analysis of a simplified iteration of the EMV protocol tailored for Visa contactless transactions. 
